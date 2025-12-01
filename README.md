@@ -1,9 +1,7 @@
 # 🎥 Zoom Clone – Real-Time Video Conferencing Platform
 
 ![Status](https://img.shields.io/badge/Project_Status-Completed-brightgreen)
-
 ![TechStack](https://img.shields.io/badge/Tech_Stack-MERN%20%7C%20WebRTC%20%7C%20Socket.io-blue)
-
 ![RealTime](https://img.shields.io/badge/Real_Time-Video%20Calling%20%7C%20Signaling-yellow)
 
 A highly scalable and real-time **video conferencing application** inspired by Zoom, built using **WebRTC**, **Socket.io**, **React**, and **Node.js**.
@@ -65,7 +63,7 @@ The system uses **Socket.io** for signalling & real-time events, while WebRTC es
 
 ### 🎥 Video & Audio Streaming
 - WebRTC PeerConnection  
-- Toggle camera / microphone  
+- Toggle camera/microphone  
 - Multi-user video grid  
 
 ### 🖥️ Screen Sharing
@@ -369,6 +367,7 @@ Enable more reliable calling behind strict firewalls.
 **Gayatri Patil**
 Full-Stack Developer | MERN | WebRTC
 GitHub: [https://github.com/Gayatrip-26](https://github.com/Gayatrip-26)
+
 LinkedIn: https://www.linkedin.com/in/gayatri-patil-524620283/
 
 ---
