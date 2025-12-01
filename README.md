@@ -1,4 +1,4 @@
-# 🎥 Zoom Clone – Real-Time Video Conferencing Platform
+# 🎥 Zoom VideoChat – Real-Time Video Conferencing Platform
 
 ![Status](https://img.shields.io/badge/Project_Status-Completed-brightgreen)
 ![TechStack](https://img.shields.io/badge/Tech_Stack-MERN%20%7C%20WebRTC%20%7C%20Socket.io-blue)
@@ -42,7 +42,7 @@ In today’s remote-first world, real-time communication platforms like Zoom and
 
 # 🚀 Overview
 
-This Zoom Clone is a **production-grade real-time meeting system** where users can:
+This VideoChat is a **production-grade real-time meeting system** where users can:
 
 * Create or join unique meeting rooms
 * Connect through peer-to-peer WebRTC
@@ -96,7 +96,7 @@ The system uses **Socket.io** for signalling & real-time events, while WebRTC es
 
 # 💼 Real-World Use Cases
 
-This Zoom Clone can be used for:
+This VideoChat can be used for:
 
 ### ✔ Online Classes
 
